@@ -33,36 +33,3 @@ Aventureiro: múltiplas peças e verificação dos caminhos possíveis.
 Mestre: simulação de jogadas com regras específicas validadas.
 
 📌 Tópicos explorados: vetores e matrizes, lógica condicional e implementação de regras do jogo.
-
-
-## 📁 Estrutura dos Arquivos
-
-```bash
-📦 PROJETOS_WYDEN
- ┣ 📂 .vscode
- ┃ ┣ 📜 launch.json
- ┃ ┗ 📜 tasks.json
- ┣ 📜 super_trunfo_logica
- ┣ 📂 batalha_naval
- ┃ ┣ 📜 batalha_aventureiro.c
- ┃ ┣ 📜 batalha_aventureiro.exe
- ┃ ┣ 📜 batalha_mestre.c
- ┃ ┣ 📜 batalha_mestre.exe
- ┃ ┣ 📜 batalha_novato.c
- ┃ ┗ 📜 batalha_novato.exe
- ┣ 📂 super_trunfo
- ┃ ┣ 📜 super_trunfo_aventureiro.c
- ┃ ┣ 📜 super_trunfo_aventureiro.exe
- ┃ ┣ 📜 super_trunfo_mestre.c
- ┃ ┣ 📜 super_trunfo_mestre.exe
- ┃ ┣ 📜 super_trunfo_novato.c
- ┃ ┗ 📜 super_trunfo_novato.exe
- ┣ 📂 xadrez
- ┃ ┣ 📜 xadrez_aventureiro.c
- ┃ ┣ 📜 xadrez_aventureiro.exe
- ┃ ┣ 📜 xadrez_mestre.c
- ┃ ┣ 📜 xadrez_mestre.exe
- ┃ ┣ 📜 xadrez_novato.c
- ┃ ┗ 📜 xadrez_novato.exe
- ┗ 📜 a.out
-
